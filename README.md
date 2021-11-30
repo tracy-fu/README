@@ -20,6 +20,9 @@ Transcribing means writing down what you hear when you listen to a piece of musi
 
 As jazz is an improvised music, the solos are filled with a blend of emotion and technicality in varying proportions. Jazz is also infamous for its difficulty, therefore lowering the skill ceiling could be seen as desirable. Transciptions allow us to understand the thought processes behind a good solo to then learn from it and play better solos ourselves.
 
+![tommy flanagan](https://user-images.githubusercontent.com/93736384/144131346-f0f903a1-0b20-4d85-ab79-f3af27c2280f.jpg)
+The late jazz pianist, Tommy Flanagan (a personal favourite of mine)
+
 ### Motivation
 
 As a jazz musician myself, transcribing music has always been something I have found challenging, especially in jazz soloing (some of the greats being notoriously difficult to play). 
